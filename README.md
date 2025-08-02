@@ -98,6 +98,12 @@ Linked Entities:
     - Westminster Abbey: https://en.wikipedia.org/wiki/Westminster_Abbey
 ```
 
+### 🎬 Demonstração do Projeto
+
+[![Clique para assistir no Google Drive](https://img.shields.io/badge/🎥%20Ver%20Demonstração%20no%20Google%20Drive-blue?style=for-the-badge)](https://drive.google.com/file/d/1yGrWhjYhcH1xfa_waQ3OdMzs7_eKwNxN/view?usp=sharing)
+
+> 📌 Este vídeo mostra a execução completa da aplicação e os resultados de análise de sentimentos, entidades, idioma e frases-chave diretamente do Azure.
+
 ## 📌 Notas
 
 - Os arquivos de texto devem estar codificados em UTF-8.
