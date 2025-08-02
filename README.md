@@ -90,23 +90,6 @@ O sistema percorre os arquivos `.txt` da pasta `reviews/` e realiza:
 
 ---
 
-## 🖼️ Exemplos Visuais
-
-### 📄 review2.txt – Sentimento **Negativo**
-
-![review2](./imagens/review2_sentiment-negative.png)
-
-### 🏨 review4.txt – Sentimento **Misto**
-
-![review4a](./imagens/review4_sentiment-mixed-part1.png)
-![review4b](./imagens/review4_sentiment-mixed-part2.png)
-
-### 🇫🇷 review5.txt – Francês com Entidades Vinculadas
-
-![review5](./imagens/review5_sentiment-positive-linked-entities.png)
-
----
-
 ## 🎬 Demonstração do Projeto
 
 [![Clique para assistir no Google Drive](https://img.shields.io/badge/🎥%20Ver%20Demonstração%20no%20Google%20Drive-blue?style=for-the-badge)](https://drive.google.com/file/d/1yGrWhjYhcH1xfa_waQ3OdMzs7_eKwNxN/view?usp=sharing)
