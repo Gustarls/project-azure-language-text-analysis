@@ -1,0 +1,20 @@
+# Arquivos do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+env/
+venv/
+.labenv/
+labenv/
+*/labenv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Arquivos de configuração sensíveis
+.env
+
+# Dados temporários
+*.log
